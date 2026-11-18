@@ -12,6 +12,9 @@
 геометрическими формами, тёмной цветовой гаммой, глянцевыми
 поверхностями и контрастной LED-подсветкой.
 <img width="1698" height="926" alt="изображение" src="https://github.com/user-attachments/assets/14decf4c-f3bf-4a46-9240-98b847a9d4f7" />
+<img width="1672" height="941" alt="изображение" src="https://github.com/user-attachments/assets/d760bee6-b703-45a1-964f-230e8f19cb9e" />
+<img width="1672" height="941" alt="изображение" src="https://github.com/user-attachments/assets/5ce1a505-4645-4b46-85ac-745c5570a6f8" />
+<img width="1672" height="941" alt="изображение" src="https://github.com/user-attachments/assets/6091d900-7099-4539-bbcb-80c28d64076d" />
 
 ## Основные особенности
 
